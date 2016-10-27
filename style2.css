@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #00CC33;
+	border-style: dotted;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+nav{
+	background-color: white;
+	border-style: dotted;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+main{
+	background-color: white;
+	border-style: dotted;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+footer{
+	background-color: white;
+	border-style: dotted;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+img{
+	width: 30%;
+	border: 2px solid green;
+}
